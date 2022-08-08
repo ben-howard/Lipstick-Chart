@@ -5,5 +5,5 @@ Create a Lipstick chart in Power BI with a stacked bar chart or stacked column c
 
 Use this hack to create a lipstick chart in Power BI, by utlising the in-built error bars.
 
-Full details on how to use this hack are provided here.  Credits go to https://www.youtube.com/c/ConsultoraHACHE for the original idea (especially useful if understand Spanish!)
+Full details on how to use this hack check out this youtube video - https://www.youtube.com/watch?v=0VQzdMQRpbk.  Credits go to https://www.youtube.com/c/ConsultoraHACHE for the original idea (especially useful if understand Spanish!)
 
